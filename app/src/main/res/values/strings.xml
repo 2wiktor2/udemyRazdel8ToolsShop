@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">UdemyRazdel8ToolsShop</string>
+    <string name="logo_description">логоти магазина</string>
+
+    <string-array name="tools">
+        <item>Дрели</item>
+        <item>Перфораторы</item>
+        <item>Шуруповерты</item>
+    </string-array>
+
 </resources>
