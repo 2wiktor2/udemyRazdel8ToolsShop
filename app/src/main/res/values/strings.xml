@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">UdemyRazdel8ToolsShop</string>
     <string name="logo_description">логоти магазина</string>
+    <string name="logo_drill">Логотип дрели</string>
 
     <string-array name="tools">
         <item>Дрели</item>
