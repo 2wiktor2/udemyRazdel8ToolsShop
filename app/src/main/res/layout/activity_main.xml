@@ -42,10 +42,10 @@
         app:layout_constraintGuide_percent="0.92" />
 
     <ListView
-
         android:id="@+id/listViewTools"
         android:layout_width="0dp"
         android:layout_height="0dp"
+        android:layout_margin="16dp"
         android:entries="@array/tools"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@id/guideline3"
