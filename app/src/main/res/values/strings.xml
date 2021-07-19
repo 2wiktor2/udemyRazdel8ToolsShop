@@ -9,4 +9,8 @@
         <item>Шуруповерты</item>
     </string-array>
 
+    <string name="drill_interskol_title">Дрель интерскол</string>
+    <string name="drill_makita_title">Дрель makita</string>
+    <string name="drill_dewalt_title">Дрель deWalt</string>
+
 </resources>
