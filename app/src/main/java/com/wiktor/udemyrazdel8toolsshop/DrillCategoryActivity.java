@@ -48,6 +48,7 @@ public class DrillCategoryActivity extends AppCompatActivity {
                 intent.putExtra("resId", drill.getImageResourceId());
                 startActivity(intent);
             }
+
         });
 
     }
